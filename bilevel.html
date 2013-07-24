@@ -87,12 +87,12 @@ var arc = d3.svg.arc()
     .innerRadius(function(d) { return radius / 3 * d.depth; })
     .outerRadius(function(d) { return radius / 3 * (d.depth + 1); });
 
-d3.json("stauer.json", function(error, root) {
+d3.json("flare.json", function(error, root) {
 
   // Compute the initial layout on the entire tree to sum sizes.
   // Also compute the full name and fill color for each node.
   partition
-      .value(function(d) { return d.impressions; })   // *REGAN - based on impressions, change to size to use other FLARE
+      .value(function(d) { return d.size; })   // *REGAN - based on impressions, change to size to use other FLARE
       .nodes(root) 
 	  .forEach(function(d) { d.sum = d.value; d.key = key(d); d.fill = fill(d); });
 
@@ -190,9 +190,9 @@ function key(d) {
 function fill(d) {
   var p = d;
   while (p.depth > 1) p = p.parent;
-//   var c = d3.lab(hue(p.ctr));  //*REGAN - was p.name
-//  c.l = luminance(d.ctr);		// *REGAN - was   c.l = luminance(d.name);
-  var c = xcolor(d.ctr); 
+  var c = d3.lab(hue(p.ctr));  //*REGAN - was p.name
+  c.l = luminance(d.ctr);		// *REGAN - was   c.l = luminance(d.name);
+//  var c = xcolor(d.ctr); 
   return c;
 }
 
