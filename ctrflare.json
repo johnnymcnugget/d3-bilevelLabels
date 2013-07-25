@@ -1,0 +1,189 @@
+{
+ "name": "alpha", "ctr": 0.02751, "impressions": 207498,
+ "children": [ 
+  {"name": "#", "type": "holder", "ctr": 0.02751, "impressions": 207498}, 
+  {
+   "name": "alpha alpha", "ctr": 0.02865, "impressions": 938,
+   "children": [   
+    {"name": "#", "type": "holder", "impressions": 938}, 
+    {"name": "alpha alpha alpha", "ctr": 0.00, "impressions": 4897,
+    "children": [
+        {"name": "#", "type": "holder", "ctr": 0.00, "impressions": 4897}, 
+        {"name": "alpha alpha alpha alpha", "ctr": 0.028655, "impressions": 43,
+  "children": [
+	 {"name": "#", "type": "holder", "ctr": 0.028655, "impressions": 43}, 
+	 {"name": "alpha alpha alpha alpha alpha", "ctr": 0.00, "impressions": 42},
+	 {"name": "alpha alpha alpha alpha beta", "ctr": 0.03016, "impressions": 787},
+	 {"name": "alpha alpha alpha alpha gamma", "ctr": 0.01063, "impressions": 2220}
+         ]
+        },
+        {"name": "alpha alpha alpha beta", "ctr": 0.02875, "impressions": 9},
+        {
+         "name": "alpha alpha alpha gamma", "ctr": 0.05809, "impressions": 277, 
+         "children": [
+          {"name": "#", "type": "holder", "ctr": 0.05809, "impressions": 277},  
+          {"name": "alpha alpha alpha gamma", "ctr": 0.02978, "impressions": 80},
+          {"name": "alpha alpha alpha delta", "ctr": 0.02941, "impressions": 12},
+          {"name": "alpha alpha alpha epsilon", "ctr": 0.05699, "impressions": 122},
+          {"name": "alpha alpha alpha zeta", "ctr": 0.01623, "impressions": 19}
+         ]
+        },
+        {"name": "alpha alpha alpha delta", "ctr": 0.05809, "impressions": 361,
+ 	"children": [
+          {"name": "#", "type": "holder", "ctr": 0.05809, "impressions": 361},           
+          {"name": "alpha alpha alpha delta alpha", "ctr": 0.01623, "impressions": 11377},
+          {"name": "alpha alpha alpha delta beta", "ctr": 0.01398, "impressions": 1365},
+          {"name": "alpha alpha alpha delta gamma", "ctr": 0.11029, "impressions": 777}
+         ]        
+        },
+        {"name": "alpha alpha alpha epsilon", "ctr": 0.00276, "impressions": 3657,
+         "children": [
+	  {"name": "#", "type": "holder", "ctr": 0.00276, "impressions": 3657}
+         ]
+        },
+        {"name": "alpha alpha alpha zeta", "ctr": 0.03552, "impressions": 29454,
+         "children": [
+	  {"name": "#", "type": "holder", "ctr": 0.03552, "impressions": 29454}
+         ]        
+        }
+     ]  
+    },
+    {"name": "alpha alpha beta", "ctr": 0.02982, "impressions": 60,
+    "children": [
+        {"name": "#", "type": "holder", "ctr": 0.02982, "impressions": 60}, 
+        {"name": "alpha alpha beta alpha", "ctr": 0.00758, "impressions": 17511},
+		{"name": "alpha alpha beta beta", "ctr": 0.07165, "impressions": 978}, 
+        {"name": "alpha alpha beta gamma", "ctr": 0.06734, "impressions": 15},
+        {"name": "alpha alpha beta delta", "ctr": 0.00, "impressions": 10},
+        {"name": "alpha alpha beta epsilon", "ctr": 0.00821, "impressions": 62}, 
+        {"name": "alpha alpha beta zeta", "ctr": 0.00325, "impressions": 4571}
+     ]
+    }, 
+    {"name": "alpha akpha gamma", "ctr": 0.00854, "impressions": 305}
+   ]
+  },
+  {
+   "name": "alpha beta ", "ctr": 0.03831, "impressions": 12486,
+     "children": [
+     {"name": "#", "type": "holder", "ctr": 0.03831, "impressions": 12486},
+     {"name": "alpha beta alpha", "ctr": 0.04151, "impressions": 60,
+      "children": [
+       {"name": "#", "type": "holder", "ctr": 0.04151, "impressions": 60},
+       {"name": "alpha beta alpha alpha", "ctr": 0.01733, "impressions": 42},
+       {"name": "alpha beta alpha beta", "ctr": 0.01508, "impressions": 94}, 
+       {"name": "alpha beta alpha gamma", "ctr": 0.05920, "impressions": 46752}
+      ]
+     },
+      {"name": "alpha beta beta", "ctr": 0.01733, "impressions": 60,
+        "children": [
+        {"name": "#", "type": "holder", "ctr": 0.01733, "impressions": 60},        
+        {
+        "name": "alpha beta beta beta alpha", "ctr": 0.01508, "impressions": 46,
+        "children": [
+         {"name": "#", "type": "holder", "ctr": 0.01508, "impressions": 46}
+        ]
+       }
+     ]    
+    }
+   ]
+  }, 
+  {
+   "name": "gamma", "ctr": 0.01508, "impressions": 98,
+     "children": [
+     {"name": "#", "type": "holder", "ctr": 0.01508, "impressions": 98},  
+     {
+     "name": "gamma alpha", "ctr": 0.05920, "impressions": 17544,
+      "children": [
+       {"name": "#", "type": "holder", "ctr": 0.05920, "impressions": 17544},  
+       {
+        "name": "gamma alpha alpha", "ctr": 0.01243, "impressions": 305064,
+        "children": [
+         {"name": "#", "type": "holder", "type": "holder", "ctr": 0.01243, "impressions": 305064},  
+         {"name": "gamma alpha alpha alpha", "ctr": 0.02445, "impressions": 3100},
+         {"name": "gamma alpha alpha beta", "ctr": 0.025, "impressions": 100},
+         {"name": "gamma alpha alpha gamma", "ctr": 0.01149, "impressions": 99},
+         {"name": "gamma alpha alpha delta", "ctr": 0.05839, "impressions": 83},
+         {"name": "gamma alpha alpha epsilon", "ctr": 0.01384, "impressions": 76},
+         {"name": "gamma alpha alpha zeta", "ctr": 0.06206, "impressions": 54},
+         {"name": "gamma alpha alpha eta", "ctr": 0.2763, "impressions": 152},         
+         {"name": "gamma alpha alpha theta", "ctr": 0.08880, "impressions": 88}
+        ]
+       }, 
+       {
+        "name": "gamma alpha beta", "ctr": 0.02552, "impressions": 8744,
+        "children": [
+         {"name": "#", "type": "holder", "type": "holder", "ctr": 0.02552, "impressions": 8744},  
+         {"name": "gamma alpha beta alpha", "ctr": 0.08407, "impressions": 49},
+         {"name": "gamma alpha beta beta", "ctr": 0.01630, "impressions": 97},
+         {"name": "gamma alpha beta gamma", "ctr": 0.07748, "impressions": 2000},
+         {"name": "gamma alpha beta delta ", "ctr": 0.01257, "impressions": 15},
+         {"name": "gamma alpha beta epsilon", "ctr": 0.05428, "impressions": 353},
+         {"name": "gamma alpha beta zeta", "ctr": 0.02480, "impressions": 778}
+        ]
+       },
+       {
+        "name": "gamma alpha gamma","ctr": 0.14470, "impressions": 266623,
+        "children": [
+         {"name": "#", "type": "holder", "type": "holder", "ctr": 0.14470, "impressions": 266623}
+        ]
+       }
+      ]   
+     },
+     {
+      "name": "gamma alpha delta", "ctr": 0.02480, "impressions": 31711,
+      "children": [
+       {"name": "#", "type": "holder", "ctr": 0.02480, "impressions": 31711}
+      ]
+     }  
+   ]
+  },
+  {
+   "name": "delta", "ctr": 0.10710, "impressions": 3877096,
+   "children": [
+   {"name": "#", "type": "holder", "ctr": 0.10710, "impressions": 3877096}
+   ]
+  }, 
+  {
+   "name": "epsilon","ctr": 0.03594, "impressions": 896177,
+   "children": [
+   {"name": "#", "type": "holder", "ctr": 0.03594, "impressions": 896177}
+   ]
+  },
+  {
+   "name": "eta","ctr": 0.13780, "impressions": 332350,
+   "children": [
+   {"name": "#", "type": "holder", "ctr": 0.13780, "impressions": 332350}
+   ]
+  },  
+  {
+   "name": "theta", "ctr": 0.04075, "impressions": 324098,
+   "children": [
+   {"name": "#", "type": "holder", "ctr": 0.04075, "impressions": 324098}
+   ]
+  }, 
+  {
+   "name": "iota", "ctr": 0.04422, "impressions": 284010,
+   "children": [
+   {"name": "#", "type": "holder", "ctr": 0.04422, "impressions": 284010}
+   ]
+  },   
+  {
+   "name": "kappa","ctr": 0.00, "impressions": 318592,
+   "children": [
+   {"name": "#", "type": "holder", "ctr": 0.00, "impressions": 318592}
+   ]
+  }, 
+  {
+   "name": "lambda", "ctr": 0.10710, "impressions": 1161802,
+   "children": [
+   {"name": "#", "type": "holder", "ctr": 0.10710, "impressions": 1161802}
+   ]
+  }, 
+  {
+   "name": "mu","ctr": 0.02437, "impressions": 147069,
+   "children": [
+   {"name": "#", "type": "holder", "ctr": 0.02437, "impressions": 147069}
+   ]
+  }   
+ ]
+} 
